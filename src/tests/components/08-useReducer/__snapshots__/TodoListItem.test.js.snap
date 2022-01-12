@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas Hook TodoListItem debe de mostrarse bien 1`] = `
+<ul
+  className="list-group list-group-flush"
+>
+  <li
+    className="list-group-item"
+    key="1"
+  >
+    <p
+      onClick={[Function]}
+      style={
+        Object {
+          "cursor": "pointer",
+          "textDecoration": "",
+        }
+      }
+    >
+      1
+      .  
+      Aprender React
+    </p>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+    >
+      Borrar
+    </button>
+  </li>
+  <li
+    className="list-group-item"
+    key="2"
+  >
+    <p
+      onClick={[Function]}
+      style={
+        Object {
+          "cursor": "pointer",
+          "textDecoration": "",
+        }
+      }
+    >
+      2
+      .  
+      Aprender Mongo
+    </p>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+    >
+      Borrar
+    </button>
+  </li>
+</ul>
+`;
